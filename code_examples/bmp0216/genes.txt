@@ -1,0 +1,46 @@
+ANK19616.1	6-N-hydroxylaminopurine resistance protein
+ANK19743.1	chloramphenical resistance permease RarD
+ANK19803.1	zinc resistance protein
+ANK20172.1	copper resistance protein
+ANK20646.1	oxidative-stress-resistance chaperone
+ANK20738.1	Fosmidomycin resistance protein
+ANK20970.1	camphor resistance protein CrcB
+ANK21356.1	multidrug resistance protein MdtH
+ANK21391.1	multiple stress resistance protein BhsA
+ANK21683.1	quinolone resistance protein
+ANK22262.1	bleomycin resistance protein
+ANK22278.1	methyl viologen resistance protein SmvA
+ANK22343.1	tellurite resistance protein TehB
+ANK22385.1	fusaric acid resistance protein
+ANK22416.1	bleomycin resistance protein
+ANK22430.1	bicyclomycin resistance protein
+ANK22442.1	chromate resistance protein
+ANK22461.1	acriflavine resistance protein B
+ANK22848.1	tellurite resistance protein
+ANK23346.1	acriflavin resistance protein AcrA
+ANK23393.1	multidrug resistance protein B
+ANK23661.1	multidrug resistance protein MdtN
+ANK23692.1	copper resistance protein
+ANK23841.1	acid-resistance protein
+ANK24407.1	acriflavine resistance protein E
+ANK24447.1	multidrug resistance protein D
+ANK24820.1	tellerium resistance protein TerY
+ANK24821.1	tellurium resistance protein TerX
+ANK24822.1	tellerium resistance protein TerY
+ANK24824.1	tellurium resistance protein TerW
+ANK24830.1	tellurium resistance protein TerZ
+ANK24831.1	tellurium resistance protein TerA
+ANK24832.1	Tellurium resistance protein TerB
+ANK24833.1	tellurium resistance protein TerC
+ANK24834.1	chemical-damaging agent resistance protein C
+ANK24836.1	tellurium resistance protein TerF
+ANK24913.1	copper resistance protein
+ANK24921.1	copper resistance protein CopB
+ANK24922.1	copper resistance protein CopC
+ANK24923.1	copper resistance protein CopD
+ANK24747.1	arsenate reductase
+ANK24748.1	arsenate reductase
+ANK24749.1	arsenic transporter
+ANK24750.1	transcriptional regulator
+ANK24751.1	ArsC family transcriptional regulator
+ANK24752.1	ArsR family transcriptional regulator
